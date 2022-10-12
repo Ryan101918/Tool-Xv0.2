@@ -15,7 +15,7 @@ This software is free to distribute, modify and use with the condition that cred
 ### Introduction
 
 *Tool-Xv0.2 is a Kali Linux hacking tools installer for Termux and linux system.*
-Tool-Xv0.2 was developed for Termux and linux based systems. Using Tool-Xv0.2, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
+Tool-Xv0.2 was developed for Termux and linux based systems. Using Tool-Xv0.2, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-Xv0.2 is available for Ubuntu, Debian etc.
 
 *A similar lightweight and fast tool [onex](https://github.com/Ryan101918/onex) is available. We can use onex instead of Tool-Xv0.2*
 
@@ -30,7 +30,7 @@ Tool-Xv0.2 was developed for Termux and linux based systems. Using Tool-Xv0.2, y
 
 ### Operating System Requirements
 
-Tool-X works on any of the following operating systems:<br>
+Tool-Xv0.2 works on any of the following operating systems:<br>
 • **Android** (Using the Termux App) <br>
 • **Linux** (Debian Based Systems) <br>
 • **Unix**
@@ -45,7 +45,7 @@ Open the terminal and type following commands.
 
 * ```apt install git```
 
-* ```git clone https://github.com/Error-4-You/Tool-Xv0.2.git```
+* ```git clone https://github.com/Error-4-You/Tool-X.git```
 
 * ```cd Tool-X```
 
@@ -60,25 +60,25 @@ Open the terminal and type following commands.
 Enter a Number for a specific output:
 - (1) : To show all available tools and type the number of a tool which you want to install.
 - (2) : To show tools category.
-- (3) : If you want to update Tool-X.
+- (3) : If you want to update Tool-Xv0.2.
 - (4) : If you want to know About Us.
 - (x) : To exit the tool.
 
 <br/>
 
-Type ```Tool-Xv0.2``` or ```toolx``` from anywhere in your terminal to open Tool-Xv0.2.
+Type ```Tool-Xv0.2``` or ```toolxv0.2``` from anywhere in your terminal to open Tool-Xv0.2.
 
 ------------------------------------------------------------------------
 
 ### How to remove ?
 
-Open Tool-Xv0.2 and type ```rm -T``` or ```uninstall tool-x``` to uninstall Tool-Xv0.2.
+Open Tool-Xv0.2 and type ```rm -T``` or ```uninstall tool-xv0.2``` to uninstall Tool-Xv0.2.
 
 ------------------------------------------------------------------------
 
  <p align="center">
 <a href="https://github.com/Ryan101918"><img title="YouTube" src="https://img.shields.io/badge/Ryan101918brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UCpNnV8iirD1ZzOc_TeVA6Rw"><img title="YouTube" src="https://img.shields.io/badge/YouTubeRyan101918red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/channel/UCpNnV8iirD1ZzOc_TeVA6Rw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-name-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
